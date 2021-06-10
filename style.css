@@ -1,0 +1,91 @@
+body{
+    font-family: 'Baloo Tammudu 2', cursive;
+    
+
+
+}
+p{
+    margin-bottom: 50px;
+}
+
+h1{
+
+
+    font-size: 40px;
+    color: coral;
+}
+h2{
+    font-size: 35px;
+
+}
+.bg{
+    background-image: url(img/header-bg.png);
+    height: 770px;
+}
+.bg img{
+    width: 400px;
+    margin-right: 40px;
+   
+
+}
+.text{
+    width: 40%;
+    float: left;
+    margin: 150px 0px 0px 130px;
+
+}
+.tag{
+    padding: 10px 25px 0px 30px;
+    color: white;
+    background-image: linear-gradient(45deg,orange,gray);
+    font-weight: 700;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.mid img{
+    width: 400px;
+    margin-right: 40px;
+   
+
+}
+.mid{
+    background-image: url(img/biography-bg.png);
+    height: 770px;
+}
+.three img{
+    width: 25%;
+    margin: 150px 55px;
+    
+}
+.work h2{
+    text-align: center;
+   
+}
+.aa{
+    padding-top: 40px;
+}
+.p-tag{
+    text-align: center;
+
+}
+.t{
+    text-align: center;
+    text-decoration: none;
+    width: 25%;
+    align-items: center;
+    margin-left: 700px;
+    color: white;
+    background-image: linear-gradient(45deg,orange,gray);
+    font-weight: 700;
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+}
+footer{
+    text-align: center;
+    padding: -80px 10px 10px 10px;
+}
+.last{
+    background-image: url(img/footer-bg.png);
+    height: 800px;
+}
+
